@@ -1,0 +1,3 @@
+build a voting system to check if a candidate is eligible to vote, eligibility age is 18 
+
+//if the candidate is not up to 18 tell them how many more years or month they have to wait to become //eligible 

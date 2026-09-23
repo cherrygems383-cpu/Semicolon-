@@ -1,0 +1,16 @@
+PATTERN CARD - Level 1: Talking to the Computer
+Pin this page above your desk. Spotting these shapes quickly is what makes coding feel easy.
+Variabletype name = value;
+printf hole%s text, %d whole number, %.2f decimal,
+System.out.printf("%s is %d%n", name, age);
+%n new line.
+Read inputScanner input = new Scanner(System.in);
+Import java.util.Scanner first.
+int n = input.nextInt();
+Shortcutsx += 5;
+Comparisonboolean big = age >= 18;
+x++;
+x--;
+Create a labelled box and store a value.
+Update a variable from its own value.
+Always gives true or false.

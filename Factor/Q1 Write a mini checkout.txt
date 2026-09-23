@@ -1,0 +1,15 @@
+Q1. Write a mini checkout system that ask users for the following product name quantity and price 
+users keeps entering the following till they say otherwise.
+Display a receipt with the total amount the user meant to pay.
+
+
+1 Ask for name 
+2 Ask for quantity
+3 Ask for price 
+4 Display total price 
+
+
+
+
+
+
